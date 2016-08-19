@@ -1,3 +1,7 @@
+<?php
+//require '../../includes/init.php';
+?>
+
 <!doctype html>
 <html>
 <head>
@@ -6,6 +10,7 @@
 </head>
 <body>
 <div id="header">
-    <h1>Login deo</h1>
+    <?php $target = ".." . DS ."admin" . DS . "index.php"; ?>
+    <a href="<?php echo $target;?>" ><h1>Login deo</a></h1>
 </div>
 <div id="main">

@@ -19,8 +19,10 @@ include_layout_template('admin_header.php');
 ?>
 
     <h1>Log file</h1>
+    </br>
     <div>
         <a href="logfile.php?clear=true">Clear log file</a>
+        <a href="logout.php">Logout</a></br>
         <?php
         if(file_exists($log_file) && is_readable($log_file) && $handle = fopen($log_file, 'r'))
         {

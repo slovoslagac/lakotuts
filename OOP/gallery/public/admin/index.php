@@ -8,6 +8,8 @@ include_layout_template('admin_header.php');
 ?>
 
     <a href="logfile.php">View log</a>
+    <a href="photo_upload.php">Photo upload</a>
+    <a href="photos.php">Photos</a>
     <a href="logout.php">Logout</a>
     <form>
 

@@ -17,4 +17,6 @@ defined('LIB_PATH') ? null : define('LIB_PATH',SITE_ROOT.DS.'includes');
 require LIB_PATH.DS.'config.php';
 require LIB_PATH.DS.'functions.php';
 require LIB_PATH.DS.'Session.php';
+require LIB_PATH.DS.'users.php';
+require LIB_PATH.DS.'photographs.php';
 require LIB_PATH.DS.'db.php';

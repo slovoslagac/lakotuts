@@ -10,6 +10,8 @@ if(isset($_POST["submit"])){
     $password = trim($_POST["password"]);
     if($user = UserSQL::find_by_username_and_password($username,$password)) {
         $session -> login($user);
+        $usr = UserSQL::find(1)->first_name;
+        $session -> set_firstname($usr);
         log_action("Login", $user->username." logged in.");
         redirect_to("index.php");
     } else {

@@ -1,3 +1,13 @@
 28.07.2016 16:14:16 | Clear : Logfile cleared by user id : 1
 28.07.2016 16:14:28 | Login : petar logged in.
 28.07.2016 16:14:43 | Login : proske logged in.
+15.08.2016 12:10:11 | Login : proske logged in.
+15.08.2016 15:35:22 | Login : proske logged in.
+15.08.2016 15:36:35 | Login : petar logged in.
+16.08.2016 09:36:39 | Login : proske logged in.
+16.08.2016 14:02:26 | Login : petar logged in.
+16.08.2016 14:28:07 | Login : petar logged in.
+16.08.2016 15:50:46 | Login : proske logged in.
+16.08.2016 16:08:02 | Login : proske logged in.
+16.08.2016 16:17:35 | Login : proske logged in.
+16.08.2016 16:43:00 | Login : proske logged in.
